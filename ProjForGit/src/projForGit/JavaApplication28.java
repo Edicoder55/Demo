@@ -5,7 +5,7 @@ public class JavaApplication28 {
    
     public static void main(String[] args) {
      
-        System.out.println("Hello GitPoj");
+        System.out.println("Test11");
     }
     
 }
